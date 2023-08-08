@@ -1,0 +1,3 @@
+# Goku
+Texts.ad
+Goku 
